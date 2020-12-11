@@ -1,9 +1,15 @@
 # Touseef Syed's Resume
 
 Touseef Syed
-touseefimam@live.com 205 242 2880
+
+touseefimam@live.com 
+
+205 242 2880
+
 Objective: 
+
 A highly organized and hard-working individual looking for a responsible position to gain practical experience.
+
 Education:
 	Associate in Information Technology | SUNY Erie Community College, Buffalo, NY| 2020
 	Master of Business Administration (MBA) | The University of Asia Pacific, Dhaka, Bangladesh|2010
